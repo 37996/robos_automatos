@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/37996/robos_automatos/issues"
   },
-  "homepage": "https://github.com/37996/robos_automatos#readme"
+  "homepage": "https://github.com/37996/robos_automatos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
