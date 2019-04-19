@@ -18,8 +18,10 @@
   "homepage": "https://github.com/37996/robos_automatos#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^39.1.0",
     "image-downloader": "^3.4.2",
+    "npm": "^6.9.0",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.14",
     "watson-developer-cloud": "^3.18.3"
